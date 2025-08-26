@@ -1,0 +1,18 @@
+{
+	"factorio.versions": [
+		{
+			"name": "dev-instance",
+			"factorioPath": "D:\\Dev stuff\\Factorio Dev\\FactorioSpaceAge\\bin\\x64\\factorio.exe"
+		}
+	],
+	"Lua.workspace.library": [
+		"d:\\Dev stuff\\Factorio Dev\\FactorioSpaceAge\\data"
+	],
+	"Lua.workspace.userThirdParty": [
+		"c:\\Users\\Atraxi\\AppData\\Roaming\\Code\\User\\workspaceStorage\\24ba80d9dce3f5e4ea309e59216bdf30\\justarandomgeek.factoriomod-debug\\sumneko-3rd"
+	],
+	"Lua.workspace.checkThirdParty": "ApplyInMemory",
+	"Lua.diagnostics.globals": [
+		"UtilitySprites"
+	]
+}

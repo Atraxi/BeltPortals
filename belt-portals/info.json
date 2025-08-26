@@ -1,0 +1,12 @@
+{
+  "name": "belt-portals",
+  "version": "0.0.1",
+  "title": "Belt portals",
+  "author": "Atraxi",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base",
+    "space-age"
+  ],
+  "description": "Adds a portal belt that can transport items between surfaces."
+}
